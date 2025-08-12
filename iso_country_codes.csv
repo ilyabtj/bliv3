@@ -1,4 +1,4 @@
-country_name;alpha_3
+country;alpha_3
 Afghanistan;AFG
 Albania;ALB
 Algeria;DZA
@@ -54,10 +54,10 @@ Cook Islands (the);COK
 Costa Rica;CRI
 Croatia;HRV
 Cuba;CUB
-Curaáao;CUW
+Cura‚Ä°ao;CUW
 Cyprus;CYP
 Czechia;CZE
-Cìte d'Ivoire;CIV
+C‚Äúte d'Ivoire;CIV
 Denmark;DNK
 Djibouti;DJI
 Dominica;DMA
@@ -182,8 +182,8 @@ Republic of North Macedonia;MKD
 Romania;ROU
 Russian Federation (the);RUS
 Rwanda;RWA
-RÇunion;REU
-Saint BarthÇlemy;BLM
+R‚Äöunion;REU
+Saint Barth‚Äölemy;BLM
 Saint Helena, Ascension and Tristan da Cunha;SHN
 Saint Kitts and Nevis;KNA
 Saint Lucia;LCA
@@ -247,4 +247,5 @@ Western Sahara;ESH
 Yemen;YEM
 Zambia;ZMB
 Zimbabwe;ZWE
-èland Islands;ALA
+¬èland Islands;ALA
+
